@@ -1,0 +1,325 @@
+    1  ls
+    2  pwd
+    3  cd .
+    4  cd ..
+    5  ls
+    6  cd mnt
+    7  ls
+    8  cd c
+    9  ls
+   10  git
+   11  git status
+   12  clear
+   13  ls
+   14  cd Users/
+   15  ls
+   16  cd admin/
+   17  ls
+   18  exit
+   19  ls
+   20  wtc-lms lgoin
+   21  wtc-lms
+   22  cd Downloads/
+   23  ls
+   24  cp lms_update  ./home
+   25  cd ./home
+   26  pwd
+   27  cd
+   28  ls
+   29  pwd
+   30  cd .
+   31  cd ..
+   32  cd mnt/c/Users/admin/Downloads/
+   33  ls
+   34  cp lms_update /home/vman65/
+   35  cd /home/
+   36  ls
+   37  cd
+   38  [
+   39  clear
+   40  cd ..
+   41  cls
+   42  ls
+   43  cd mnt 
+   44  ls
+   45  cd c
+   46  ls
+   47  cd Userss
+   48  cd Users
+   49  ls
+   50  cd admin/
+   51  ls
+   52  cd Diw
+   53  cd Downloads/
+   54  ls
+   55  clears
+   56  clear
+   57  ls
+   58  cp wtc lms /home/vman65/
+   59  cp wtc-lms /home/vman65/
+   60  cd
+   61  cd home
+   62  ls
+   63  cd ..
+   64  ls
+   65  cp /home/vman65/wtc-lms bin
+   66  ls
+   67  cd home
+   68  ls
+   69  cd vman65/
+   70  cd .local/
+   71  ls
+   72  mkdir bi
+   73  ls
+   74  cd ..
+   75  ls
+   76  cp /home/vman65/wtc-lms .local/bin/
+   77  ls
+   78  cd .local/
+   79  ls
+   80  cd bin
+   81  ls
+   82  clear
+   83  chmod +x wtc-lms 
+   84  wtc-lms
+   85  sudo chmod +x wtc-lms 
+   86  wtc-lms
+   87  exit
+   88  wtc-lms
+   89  clear
+   90  wtc-lms login
+   91  ls
+   92  cd .config/
+   93  ls
+   94  cd wtc
+   95  ls
+   96  nano config.yml 
+   97  wtc-lms login
+   98  clear
+   99  wtc-lms
+  100  clear
+  101  wtc-lms login
+  102  nano config.yml 
+  103  wtc-lms login
+  104  nano config.yml 
+  105  wtc-lms login
+  106  wtc-lms
+  107  clear
+  108  ls
+  109  cd .config/
+  110  ls
+  111  rm -r wtc
+  112  ls
+  113  wtc-lms login
+  114  ls
+  115  mkdir bin
+  116  ls
+  117  cd .local/
+  118  ls
+  119  rm -r bin
+  120  wtc-lms login
+  121  ls
+  122  cd
+  123  ls
+  124  cp wtc-lms bin
+  125  cd bin
+  126  ls
+  127  sudo chmod +x wtc-lms 
+  128  wtc-lms login
+  129  wtc-lms RUST_BACKTRACE
+  130  RUST_BACKTRACE
+  131  RUST_BACKTRACE=1
+  132  wtc-lms login RUST_BACKTRACE=1
+  133  wtc-lms login
+  134  wtc-lms login RUST_BACKTRACE=1clear
+  135  clear
+  136  ls
+  137  cd .config/
+  138  ls
+  139  cd wtc
+  140  nano config.yml
+  141  cd
+  142  ls
+  143  sudo chmod +x lms_update
+  144  lms_update
+  145  wtc-lms login
+  146  ls
+  147  cd bin
+  148  ls
+  149  rm wtc-lms 
+  150  cd /mnt/c/Users/admin//Downloads/
+  151  ls
+  152  cp wtc /home/vman65/bin/
+  153  cd
+  154  ls
+  155  cd
+  156  cd bin/
+  157  ls
+  158  wtc-lms
+  159  sudo chmod +x wtc 
+  160  sudo chmod +x wtc wtc
+  161  wtc-lms
+  162  wtc
+  163  wtc-lms
+  164  ls
+  165  cd bin
+  166  ls
+  167  rm wtc
+  168  ls
+  169  cd ..
+  170  ls
+  171  cd /mnt/c/Users/admin//Downloads/
+  172  ls
+  173  cp wtc-lms /home/vman65/bin
+  174  cd
+  175  ls
+  176  cd bin
+  177  ls
+  178  sudo chmod +x wtc-lms 
+  179  wtc-lms
+  180  wtc-lms lgoin
+  181  clear
+  182  wtc-lms login
+  183  RUST_BACKTRACE=1 cargo run
+  184  wtc-lms login
+  185  RUST_BACKTRACE=1 cargo run
+  186  sudo apt install cargo
+  187  RUST_BACKTRACE=1 cargo run
+  188  RUST_BACKTRACE=1 cargo
+  189  clear
+  190  wtc-lms login
+  191  ls
+  192  cd .config/
+  193  ls
+  194  cd wtc
+  195  ls
+  196  nano config.yml 
+  197  wtc-lms login
+  198  cd
+  199  ls
+  200  cd bin/
+  201  ls
+  202  rm wtc-lms 
+  203  d
+  204  cd
+  205  clear
+  206  cls
+  207  ls
+  208  rm wtc-lms
+  209  rm lms_update 
+  210  wtc-lms
+  211  sudo chmod +x wtc-lms 
+  212  cd /mnt/c/Users/admin//Downloads/
+  213  ls
+  214  sudo chmod +x wtc-lms 
+  215  wtc-lms
+  216  wtc-lms login
+  217  clear
+  218  wtc-lms login
+  219  git --global user.name
+  220  git config --global user.name
+  221  git config user.name
+  222  git status
+  223  ls
+  224  cd /mnt/c/Users/admin/Downloads/
+  225  ls
+  226  exit
+  227  sudo chmod +x wtc-lms 
+  228  cd /mnt/c/Users/admin//Downloads/
+  229  cp wtc-lms /home/
+  230  cp wtc-lms /home/vman65/bin/
+  231  cd 
+  232  cd
+  233  ls
+  234  cd bin
+  235  ls
+  236  sudo chmod +x wtc-lms 
+  237  clear
+  238  wtc-lms login
+  239  wtc-lms
+  240  wtc-lms update https://.glue.wethinkco.de/package/v-.42.0/wtc-lms
+  241  wtc-lms update https://.glue.wethinkco.de/package/v-.42.0/wtc-lms | bash
+  242  clear
+  243  wtc-lms update https://.glue.wethinkco.de/package/v-.42.0/wtc-lms | bash
+  244  wtc-lms login
+  245  wtc-lms update https://.glue.wethinkco.de/package/v-.42.0/wtc-lms | bash
+  246  wtc-lms login
+  247  exit
+  248  git status
+  249  git config user.name
+  250  git --global user.name
+  251  git config --global user.name
+  252  git config --global --user.name
+  253  git config user.email
+  254  git config --global user.name "Vusani"
+  255  clear
+  256  git config --global user.email "vnwedo@gmail.com"
+  257  git config user.name
+  258  git config user.email
+  259  mkdir git-basic-exercises
+  260  cd git-basic-exercises/
+  261  ls -a
+  262  git init
+  263  git branch -m main
+  264  git branch
+  265  git branch -m <main>
+  266  git branch -m main
+  267  git branch
+  268  giit status
+  269  git status
+  270  clear
+  271  ls -s
+  272  ls -a
+  273  git status
+  274  touch README.md
+  275  ls -a
+  276  git status
+  277  git add README.md
+  278  git status
+  279  git reset HEAD README.md
+  280  git reset README.md
+  281  git status
+  282  git add README.md
+  283  git commit -m "initial commit"
+  284  git log
+  285  q
+  286  nano README.md
+  287  cat README.md
+  288  git status
+  289  clear
+  290  git status
+  291  nano README.md
+  292  git add .
+  293  git commit -m "second commit"
+  294  nano README.md
+  295  git add .
+  296  git commit -m "third commit"
+  297  git log
+  298  clear
+  299  git log
+  300  clear
+  301  git log
+  302  enableClipboard=true
+  303  git log
+  304  clear
+  305  git checkout 899736a3feaa7f8f7a6d4da1c842f32a6d0a4632
+  306  cat README.md
+  307  git checkiut main
+  308  git checkout main
+  309  cat README.md
+  310  git branch
+  311  git branch milkshake-flavours
+  312  git branch
+  313  git checkout milkshake-flavours
+  314  nano milkshakes.md
+  315  git status
+  316  git add .
+  317  git commit -m "added initial flavours"
+  318  clear
+  319  git log
+  320  git checkout main
+  321  git branch history
+  322  git checkout history
+  323  git log
+  324  git branch
+  325  history> history.txt
