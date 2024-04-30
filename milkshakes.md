@@ -1,1 +1,1 @@
-vanilla, mint
+vanilla, mint, strawberry
